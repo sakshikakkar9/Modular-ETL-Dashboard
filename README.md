@@ -4,7 +4,7 @@
 
 ---
 
-## 🏗️ The Architecture (Medallion Flow)
+## The Architecture (Medallion Flow)
 This project follows the industry-standard Medallion Architecture to ensure data quality and reliability:
 
 1.  **🥉 Bronze (Raw)**: Automated ingestion of source CSV files using resilient Python protocols.
@@ -15,7 +15,7 @@ This project follows the industry-standard Medallion Architecture to ensure data
 
 ---
 
-## 🚀 Key Features
+## Key Features
 * **Automated ETL Pipeline**: Fully scripted Python modules for Extract, Transform, and Load processes.
 * **Chronological Trend Analysis**: Time-series visualization tracking business performance across years/months.
 * **AI-Powered Sales Assistant**: A built-in retrieval agent in the dashboard for natural language data querying.
@@ -23,7 +23,7 @@ This project follows the industry-standard Medallion Architecture to ensure data
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language**: Python 3.x
 * **Frontend/UI**: Streamlit
 * **Data Processing**: Standard CSV & Datetime Libraries (NumPy/Pandas compatible)
@@ -31,7 +31,7 @@ This project follows the industry-standard Medallion Architecture to ensure data
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```text
 Data_Movie_Project/
 ├── data/
